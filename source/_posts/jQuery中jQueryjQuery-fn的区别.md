@@ -53,5 +53,5 @@ tags:
 	  
 	   jQuery.fn = jQuery.prototype = {};  
    了解过prototype就一定知道这个是jquery的原型，给原型添加一个方法。
- 
+  
 	
