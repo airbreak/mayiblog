@@ -72,3 +72,7 @@ deploy:
   type: git
   repository: https://github.com/airbreak/airbreak.github.io.git
   branch: master
+
+duoshuo_shortname: imayi
+
+
