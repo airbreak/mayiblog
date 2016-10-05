@@ -1,7 +1,7 @@
 ---
-title: jQuer $和 $.fn的区别
+title: jQuery $和 $.fn的区别
 date: 2016-04-13 23:55:21
-tags:
+tags: js
 ---
 讨论下jQuery中$和$.fn的区别。  
 我们先看几个实例：    

@@ -1,7 +1,7 @@
 ---
 title: me before you
 date: 2016-07-04 00:44:46
-tags:
+tags: 影评
 ---
   <font color=#e78170>**````jimmy````  **  </font>   
  很久没有看电影了，周末看了一部印象挺深刻的，叫<font color=#075b8d>《me before you》。</font> 怎么翻译呢，我的第一反应：在我之后。    

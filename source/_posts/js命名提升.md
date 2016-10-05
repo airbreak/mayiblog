@@ -1,7 +1,7 @@
 ---
 title: js的命名提升
 date: 2016-04-03 19:08:49
-tags:
+tags: js
 ---
  <font color=#e78170>jimmy</font>   
  
